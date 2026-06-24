@@ -1,4 +1,4 @@
-# Bakery Sales Dashboard – Power BI Project
+# Sales Analysis Dashboard – Power BI Project
 
 ## Project Overview
 This project is part of the Data Analysis Diploma assignments at Route Academy.  
